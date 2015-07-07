@@ -1,3 +1,5 @@
+Репозиторий перенесен: https://github.com/yandex-money/
+
 [ECShop](http://chinascript.ru/forum-ecshop-1.html)
 ==================
 
